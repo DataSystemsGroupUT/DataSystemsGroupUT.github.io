@@ -1,0 +1,99 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>AutoML Course</title>
+  <subtitle>AutoML course by Data Systems Group.</subtitle>
+  <updated>2023-04-20T19:56:59+03:00</updated>
+  <author>
+    <name>your_full_name</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 your_full_name </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Project Desciption</title>
+    <link href="http://localhost:4000/posts/Project/" rel="alternate" type="text/html" title="Project Desciption" />
+    <published>2023-04-18T16:00:00+03:00</published>
+  
+    <updated>2023-04-18T16:00:00+03:00</updated>
+  
+    <id>http://localhost:4000/posts/Project/</id>
+    <content src="http://localhost:4000/posts/Project/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="home" />
+    
+    <category term="poject-desc" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Project Description
+
+Due to the accelerating pace of digitalization in all aspects of life, data literacy, and ML competencies specifically areincreasingly relevant key competencies to develop trustworthy, safe, fair, accepted, and useful ML solutions for complex societal and industrial problems. ML teams must not only contain ML experts, but also people with more diverse expertise. With Machin...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Welcome page</title>
+    <link href="http://localhost:4000/posts/HOME/" rel="alternate" type="text/html" title="Welcome page" />
+    <published>2023-04-18T15:00:00+03:00</published>
+  
+    <updated>2023-04-18T15:00:00+03:00</updated>
+  
+    <id>http://localhost:4000/posts/HOME/</id>
+    <content src="http://localhost:4000/posts/HOME/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="home" />
+    
+    <category term="welcome" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      WELCOME TO THE MachineLearnAthon HOMEPAGE!
+
+The aim of our project is the development of  MachineLearnAthons, which is a new teaching format that extends machine learning (ML) challenges. While ML challenges  are commonly designed for participants with prior ML and programming experience, the proposed MachineLearnAthons will make the ML challenges accessible for students with varying prior know...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
